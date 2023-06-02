@@ -1,0 +1,54 @@
+div {
+  text-align: center;
+}
+.line {
+  width: 50%;
+}
+.linkpage {
+  color: rgba(0, 0, 255, 0.719);
+}
+button {
+  background-color: #165cef;
+  color: white;
+  border-radius: 20px;
+  width: 143px;
+  height: 40px;
+  border: none;
+  cursor: pointer;
+}
+ol {
+  list-style-type: lower-roman;
+}
+ol {
+  list-style-position: inside;
+}
+h1 {
+  font-family: "Poppins", sans-serif;
+}
+ol {
+  font-family: "Poppins", sans-serif;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+p {
+  font-family: "Poppins", sans-serif;
+}
+.caption {
+  position: relative;
+  top: -25px;
+}
+table,
+th,
+td {
+  border: solid black;
+  border-collapse: collapse;
+  padding: 10px 20px;
+}
+body {
+  text-align: center;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
